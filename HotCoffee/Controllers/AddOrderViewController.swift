@@ -1,19 +1,19 @@
 //
-//  ViewController.swift
+//  AddOrderViewController.swift
 //  HotCoffee
 //
 //  Created by Berkay Kuzu on 16.03.2023.
 //
 
+import Foundation
 import UIKit
 
-class ViewController: UIViewController {
+class AddOrderViewController: UIViewController {
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
     }
-
-
+    
 }
-
